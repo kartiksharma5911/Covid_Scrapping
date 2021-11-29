@@ -1,0 +1,254 @@
+[
+    {
+        "state": "Andaman and Nicobar Islands",
+        "confirm": "7681",
+        "active": "6",
+        "discharge": "7546",
+        "death": "129"
+    },
+    {
+        "state": "Andhra Pradesh",
+        "confirm": "2072624",
+        "active": "2140",
+        "discharge": "2056046",
+        "death": "14438"
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "confirm": "55269",
+        "active": "33",
+        "discharge": "54956",
+        "death": "280"
+    },
+    {
+        "state": "Assam",
+        "confirm": "616568",
+        "active": "2691",
+        "discharge": "607785",
+        "death": "6092"
+    },
+    {
+        "state": "Bihar",
+        "confirm": "726217",
+        "active": "41",
+        "discharge": "716513",
+        "death": "9663"
+    },
+    {
+        "state": "Chandigarh",
+        "confirm": "65448",
+        "active": "54",
+        "discharge": "64574",
+        "death": "820"
+    },
+    {
+        "state": "Chhattisgarh",
+        "confirm": "1006763",
+        "active": "330",
+        "discharge": "992840",
+        "death": "13593"
+    },
+    {
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "confirm": "10683",
+        "active": "1",
+        "discharge": "10678",
+        "death": "4"
+    },
+    {
+        "state": "Delhi",
+        "confirm": "1440866",
+        "active": "288",
+        "discharge": "1415481",
+        "death": "25097"
+    },
+    {
+        "state": "Goa",
+        "confirm": "178866",
+        "active": "273",
+        "discharge": "175211",
+        "death": "3382"
+    },
+    {
+        "state": "Gujarat",
+        "confirm": "827408",
+        "active": "284",
+        "discharge": "817032",
+        "death": "10092"
+    },
+    {
+        "state": "Haryana",
+        "confirm": "771676",
+        "active": "168",
+        "discharge": "761454",
+        "death": "10054"
+    },
+    {
+        "state": "Himachal Pradesh",
+        "confirm": "227003",
+        "active": "795",
+        "discharge": "222361",
+        "death": "3847"
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "confirm": "336531",
+        "active": "1658",
+        "discharge": "330398",
+        "death": "4475"
+    },
+    {
+        "state": "Jharkhand",
+        "confirm": "349221",
+        "active": "93",
+        "discharge": "343988",
+        "death": "5140"
+    },
+    {
+        "state": "Karnataka",
+        "confirm": "2995600",
+        "active": "6860",
+        "discharge": "2950542",
+        "death": "38198"
+    },
+    {
+        "state": "Kerala",
+        "confirm": "5133709",
+        "active": "47652",
+        "discharge": "5046219",
+        "death": "39838"
+    },
+    {
+        "state": "Ladakh",
+        "confirm": "21528",
+        "active": "268",
+        "discharge": "21047",
+        "death": "213"
+    },
+    {
+        "state": "Lakshadweep",
+        "confirm": "10394",
+        "active": "28",
+        "discharge": "10315",
+        "death": "51"
+    },
+    {
+        "state": "Madhya Pradesh",
+        "confirm": "793138",
+        "active": "122",
+        "discharge": "782488",
+        "death": "10528"
+    },
+    {
+        "state": "Maharashtra",
+        "confirm": "6634444",
+        "active": "11863",
+        "discharge": "6481640",
+        "death": "140941"
+    },
+    {
+        "state": "Manipur",
+        "confirm": "125152",
+        "active": "685",
+        "discharge": "122496",
+        "death": "1971"
+    },
+    {
+        "state": "Meghalaya",
+        "confirm": "84444",
+        "active": "301",
+        "discharge": "82672",
+        "death": "1471"
+    },
+    {
+        "state": "Mizoram",
+        "confirm": "134373",
+        "active": "3900",
+        "discharge": "129981",
+        "death": "492"
+    },
+    {
+        "state": "Nagaland",
+        "confirm": "32100",
+        "active": "135",
+        "discharge": "31269",
+        "death": "696"
+    },
+    {
+        "state": "Odisha",
+        "confirm": "1048683",
+        "active": "2191",
+        "discharge": "1038085",
+        "death": "8407"
+    },
+    {
+        "state": "Puducherry",
+        "confirm": "128881",
+        "active": "312",
+        "discharge": "126697",
+        "death": "1872"
+    },
+    {
+        "state": "Punjab",
+        "confirm": "603240",
+        "active": "340",
+        "discharge": "586304",
+        "death": "16596"
+    },
+    {
+        "state": "Rajasthan",
+        "confirm": "954758",
+        "active": "199",
+        "discharge": "945604",
+        "death": "8955"
+    },
+    {
+        "state": "Sikkim",
+        "confirm": "32228",
+        "active": "127",
+        "discharge": "31698",
+        "death": "403"
+    },
+    {
+        "state": "Tamil Nadu",
+        "confirm": "2725467",
+        "active": "8337",
+        "discharge": "2680667",
+        "death": "36463"
+    },
+    {
+        "state": "Telangana",
+        "confirm": "675614",
+        "active": "3535",
+        "discharge": "668090",
+        "death": "3989"
+    },
+    {
+        "state": "Tripura",
+        "confirm": "84787",
+        "active": "86",
+        "discharge": "83880",
+        "death": "821"
+    },
+    {
+        "state": "Uttar Pradesh",
+        "confirm": "1710382",
+        "active": "83",
+        "discharge": "1687389",
+        "death": "22910"
+    },
+    {
+        "state": "Uttarakhand",
+        "confirm": "344219",
+        "active": "176",
+        "discharge": "336636",
+        "death": "7407"
+    },
+    {
+        "state": "West Bengal",
+        "confirm": "1614867",
+        "active": "7804",
+        "discharge": "1587601",
+        "death": "19462"
+    }
+]
